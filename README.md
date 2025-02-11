@@ -1,0 +1,1 @@
+This repository demonstrates a common error in PHP: type errors.  The `calculateSum` function expects an array of numbers, but if a non-numeric value is present, it will cause a type error. The solution shows how to handle potential type errors using strict type checking or a more robust approach.
